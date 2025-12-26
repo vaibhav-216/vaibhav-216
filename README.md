@@ -2,6 +2,7 @@ Hy, I'm Vaibhav kumar and welcome to my Github Profile
 I'm aspiring Data Analyst with strong knowledge of SQL, Python, Advance Excel and Power BI.
 And i'm eager to apply my skills in real world industries to gain hands on experience through Projects.
 ## 🌐 Socials:
+Connect with me :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaibhav-216) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vaibhav_216_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vaibhav_216) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavkumar3950@gmail.com) 
 
 # 💻 Tech Stack:
