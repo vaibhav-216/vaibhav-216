@@ -1,4 +1,4 @@
-<h1 Hy, I'm Vaibhav kumar and welcome to my Github Profile </h1>
+<h3 Hy, I'm Vaibhav kumar and welcome to my Github Profile </h3>
 I'm aspiring Data Analyst with strong knowledge of SQL, Python, Advance Excel and Power BI.
 And i'm eager to apply my skills in real world industries to gain hands on experience through Projects.
 ## 🌐 Socials:
